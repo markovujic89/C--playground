@@ -1,0 +1,12 @@
+C:\Learning\C# playground\Playground\Definition\bin\Debug\net7.0\Definition.deps.json
+C:\Learning\C# playground\Playground\Definition\bin\Debug\net7.0\Definition.dll
+C:\Learning\C# playground\Playground\Definition\bin\Debug\net7.0\Definition.pdb
+C:\Learning\C# playground\Playground\Definition\obj\Debug\net7.0\Definition.csproj.AssemblyReference.cache
+C:\Learning\C# playground\Playground\Definition\obj\Debug\net7.0\Definition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\C# playground\Playground\Definition\obj\Debug\net7.0\Definition.AssemblyInfoInputs.cache
+C:\Learning\C# playground\Playground\Definition\obj\Debug\net7.0\Definition.AssemblyInfo.cs
+C:\Learning\C# playground\Playground\Definition\obj\Debug\net7.0\Definition.csproj.CoreCompileInputs.cache
+C:\Learning\C# playground\Playground\Definition\obj\Debug\net7.0\Definition.dll
+C:\Learning\C# playground\Playground\Definition\obj\Debug\net7.0\refint\Definition.dll
+C:\Learning\C# playground\Playground\Definition\obj\Debug\net7.0\Definition.pdb
+C:\Learning\C# playground\Playground\Definition\obj\Debug\net7.0\ref\Definition.dll
